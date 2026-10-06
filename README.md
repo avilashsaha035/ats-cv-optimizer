@@ -145,22 +145,6 @@ The generated PDF follows these rules so ATS software can read it correctly:
 
 ---
 
-## Repository Structure
-
-```
-ats-cv-optimizer/                 # repository root
-├── README.md
-├── LICENSE
-└── skills/
-    └── ats-cv-optimizer/         # the skill folder
-        ├── SKILL.md              # skill instructions (required)
-        └── references/           # optional reference files
-            ├── ats-keywords-tech.md
-            └── weak-verbs.md
-```
-
----
-
 ## Requirements
 
 - A Claude plan with **Skills** and **Code execution / File creation** enabled (needed to generate the PDF)
