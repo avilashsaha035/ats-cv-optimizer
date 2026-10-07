@@ -54,10 +54,11 @@ Claude triggers this skill automatically when you paste or upload CV/resume cont
 
 ### Option 1: Claude.ai (Web / Desktop / Mobile)
 
-1. Download the latest `ats-cv-optimizer.zip`.
-2. Open Claude → **Settings** → **Skills** (the exact menu name may vary by version).
-3. Click **Upload skill** and select the zip file.
-4. Enable the skill.
+1. Go to the [Releases](../../releases) page and open the latest release.
+2. Under **Assets**, download **`ats-cv-optimizer.zip`**.
+3. Open Claude → **Settings** → **Skills** (the exact menu name may vary by version).
+4. Click **Upload skill** and select the zip file.
+5. Enable the skill.
 
 > The zip must contain the `ats-cv-optimizer/` folder with `SKILL.md` inside it.
 
